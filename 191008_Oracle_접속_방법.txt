@@ -1,0 +1,17 @@
+Net 로그인 -> 80포트로 로그인
+OCI -> jdbc처럼 연결하는 모듈. Oracle Connection Interface.
+
+1. SQLGate for Oracle 설치
+: 절대 업데이트 하면 안됨!!!!!!!!!!!
+
+2. Oracle 11g Client 다운로드
+: https://www.oracle.com/database/technologies/oracle-database-software-downloads.html
+: 32bit로 해야함. 왜냐면 SQLGate가 64bit 지원 안함
+: 다운받으면 SQLGate 설정이 자동으로 되면서 OCI 접속이 가능하게 됨.
+
+(1) zip 파일 다운로드
+(2) zip 파일 압축 풀기
+(3) setup.exe 실행(client만 설치하면 됨)
+(4) 
+
+3. 
